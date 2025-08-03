@@ -12,3 +12,4 @@
 - 1.TowerOfHani：汉诺塔
 - 1.1run_hanio：汉诺塔动画
 - 2.Polynominal：多项式加法和乘法（链表实现）
+- 3.1BiTree-Traverse：二叉树各种遍历算法

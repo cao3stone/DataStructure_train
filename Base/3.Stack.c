@@ -52,7 +52,7 @@ void init_Stack(PSTACK pS)
     }else
     {
         pS->pTop=pS->pBottom;
-        pS->pBottom->pNext=NULL; //等价于ppS->pTop->pNext=NULL
+        pS->pBottom->pNext=NULL; //等价于pS->pTop->pNext=NULL
     }
 }
 
